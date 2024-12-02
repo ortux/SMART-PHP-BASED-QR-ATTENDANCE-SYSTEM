@@ -17,7 +17,7 @@ if($result->num_rows > 0)
     if($row["password"] == $password)
     {
         setcookie("username", $username, time()+(86400*30),"/");
-        header("Location: ../dashboard/index.php");
+        header("Location: ../dash/dash.php");
         exit;
     }
 }

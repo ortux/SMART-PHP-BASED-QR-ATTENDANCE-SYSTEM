@@ -1,9 +1,9 @@
-<!--Login Page-->
-<!--if user already loged in redirect to dashboard-->
-<?php 
-if(isset($_COOKIE['username']))
-{
-    header('Location: ../dashboard/index.php');
+
+<?
+
+if (isset($_COOKIE['username'])) {
+    header('Location: ../index.php'); // Redirect to the dashboard if the user is already logged in
+    exit;
 }
 ?>
 <!DOCTYPE html>
