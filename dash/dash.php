@@ -33,7 +33,7 @@ if (isset($_COOKIE['username'])) {
             <ul class="hidden lg:flex space-x-4 text-white">
                 <li><a href="dash.php" class="hover:underline">Home</a></li>
                 <li><a href="#" class="hover:underline">Print Attendance</a></li>
-                <li><a href="#" class="hover:underline">Add Student</a></li>
+                <li><a href="manage_students.php" class="hover:underline">Add Student</a></li>
                 <li><a href="../auth/logout.php" class="hover:underline">Logout</a></li>
             </ul>
 
