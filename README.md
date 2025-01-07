@@ -39,7 +39,7 @@ STUDENT MANAGEMENT PAGE :
 
 [![website](https://img.shields.io/badge/LIVE_PREVIEW-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://sms.rntnotes.xyz/go/login)
 
-[![Buy Me A Coffee](https://img.shields.io/badge/BUY_ME_A_COFFEE-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+[![Buy Me A Coffee](https://img.shields.io/badge/BUY_ME_A_COFFEE-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/allinone2024)
 
 CREDENTIALS:
 USERNAME - H2142 PASSWORD - om2002lopa
