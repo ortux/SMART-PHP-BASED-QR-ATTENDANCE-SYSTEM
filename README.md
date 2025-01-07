@@ -39,6 +39,8 @@ STUDENT MANAGEMENT PAGE :
 
 [![website](https://img.shields.io/badge/LIVE_PREVIEW-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://sms.rntnotes.xyz/go/login)
 
+[![website](https://img.shields.io/badge/BUY_ME_A_COFEE-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://sms.rntnotes.xyz/go/login)
+
 CREDENTIALS:
 USERNAME - H2142 PASSWORD - om2002lopa
 
